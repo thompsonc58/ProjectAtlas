@@ -4494,66 +4494,702 @@ A Program Specification conforms to this section when:
 - configuration management practices support traceability and document integrity.
 ------------------------------------------------------------------------
 
-# 8. Engineering Requirements
+# 8. Supporting Information
 
-*Reserved for future development.*
+## 8.1 Terms and Definitions
 
+### 8.1.1 General
+
+This section defines the terminology used throughout this standard.
+
+The purpose of these definitions is to establish a common vocabulary that promotes consistent interpretation and application of the Program Specification Standard.
+
+Unless otherwise specified, the terms defined in this section shall apply throughout this standard.
+
+---
+
+### 8.1.2 Program Terminology
+
+#### Academic Program
+
+A structured sequence of educational experiences designed to achieve a defined set of Educational Objectives, Graduate Competencies, and Program Learning Outcomes.
+
+---
+
+#### Curriculum
+
+The planned sequence of courses, learning experiences, instructional activities, and assessments that collectively support achievement of the Program Learning Outcomes.
+
+---
+
+#### Curriculum Architecture
+
+The organized structure of an academic curriculum that defines relationships among courses, prerequisites, co-requisites, sequencing, competencies, learning outcomes, and assessment activities.
+
+---
+
+#### Program Mission
+
+A concise statement describing the purpose, scope, and educational intent of the academic program.
+
+---
+
+#### Educational Objective
+
+A broad statement describing the expected accomplishments of graduates several years following program completion.
+
+---
+
+#### Graduate Competency
+
+A measurable knowledge, skill, ability, or professional behavior expected of graduates upon completion of the academic program.
+
+---
+
+#### Program Learning Outcome (PLO)
+
+A measurable statement describing what students are expected to know, understand, or be able to demonstrate upon completion of the academic program.
+
+---
+
+#### Curriculum Map
+
+A documented representation showing the relationships between courses, competencies, Program Learning Outcomes, and Educational Objectives.
+
+---
+
+### 8.1.3 Assessment Terminology
+
+#### Assessment
+
+The systematic process of collecting and evaluating evidence to determine the extent to which learning outcomes and competencies have been achieved.
+
+---
+
+#### Formative Assessment
+
+Assessment conducted during learning to provide feedback that supports student improvement.
+
+---
+
+#### Summative Assessment
+
+Assessment conducted following a learning activity to evaluate achievement of defined learning outcomes.
+
+---
+
+#### Assessment Strategy
+
+The documented approach used to evaluate achievement of Program Learning Outcomes and Graduate Competencies.
+
+---
+
+#### Evidence
+
+Documented information collected to demonstrate achievement of learning outcomes, competencies, program effectiveness, or compliance with institutional or accreditation requirements.
+
+---
+
+#### Program Evaluation
+
+The systematic review of assessment evidence to determine overall effectiveness of the academic program.
+
+---
+
+### 8.1.4 Governance Terminology
+
+#### Governance
+
+The organizational structure, authority, responsibilities, and decision-making processes used to manage and oversee the academic program.
+
+---
+
+#### Quality Assurance
+
+The systematic activities used to verify that the academic program conforms to its approved Program Specification and applicable quality requirements.
+
+---
+
+#### Continuous Improvement
+
+The ongoing process of using evidence, evaluation results, stakeholder feedback, and quality assurance findings to improve the academic program.
+
+---
+
+#### Stakeholder
+
+An individual or organization with an interest in, or affected by, the academic program.
+
+Examples include students, faculty, graduates, employers, advisory committees, institutional administrators, accrediting organizations, and industry partners.
+
+---
+
+#### Traceability
+
+The documented ability to establish relationships among requirements, Educational Objectives, Program Learning Outcomes, Graduate Competencies, curriculum components, assessments, and supporting evidence.
+
+---
+
+#### Conformance
+
+The state of satisfying all applicable mandatory requirements defined by this standard.
+
+---
+
+## 8.2 Acronyms and Abbreviations
+
+The following acronyms are used throughout this standard.
+
+| Acronym | Definition |
+|----------|------------|
+| ATLAS | Academic Teaching and Learning Architecture Standard |
+| CI | Continuous Improvement |
+| CLO | Course Learning Outcome |
+| EO | Educational Objective |
+| KPI | Key Performance Indicator |
+| PLO | Program Learning Outcome |
+| QA | Quality Assurance |
+| SME | Subject Matter Expert |
+
+Additional institutional acronyms may be defined within individual Program Specifications where appropriate.
+
+---
+
+## 8.3 References
+
+### 8.3.1 Normative References
+
+The following documents are considered normative references for the application of this standard.
+
+- ATLAS-STD-000 – Standards Authoring and Engineering Specification
+- Other ATLAS standards as referenced by this document
+
+Where conflicts exist, the requirements of this standard shall take precedence unless otherwise specified.
+
+---
+
+### 8.3.2 Informative References
+
+The following publications provide useful guidance but are not considered mandatory for conformance.
+
+Examples include:
+
+- IEEE standards related to software engineering and systems engineering
+- ISO standards related to quality management and systems engineering
+- Bloom's Taxonomy
+- ACM Computing Curricula
+- ABET Accreditation Criteria
+- SACSCOC Principles of Accreditation
+- Institutional academic policies and procedures
+
+---
+
+## 8.4 Recommended Templates
+
+The templates contained within this section are informative and are provided solely to encourage consistency in the development of Program Specifications.
+
+Institutions may adapt these templates provided all mandatory requirements of this standard are satisfied.
+
+Recommended templates include:
+
+### 8.4.1 Program Specification Template
+
+A recommended structure for documenting a complete academic program.
+
+---
+
+### 8.4.2 Curriculum Map Template
+
+A recommended format for documenting relationships among:
+
+- Educational Objectives
+- Graduate Competencies
+- Program Learning Outcomes
+- Courses
+
+---
+
+### 8.4.3 Assessment Matrix Template
+
+A recommended format for documenting:
+
+- Assessment methods
+- Assessment frequency
+- Performance indicators
+- Responsible parties
+- Evidence sources
+
+---
+
+### 8.4.4 Revision History Template
+
+A recommended format for documenting revisions, approvals, rationale, and affected sections.
+
+---
+
+## 8.5 Traceability Matrix
+
+A Traceability Matrix provides a structured mechanism for demonstrating relationships among the requirements defined by this standard and the corresponding sections of a Program Specification.
+
+The Traceability Matrix should identify:
+
+- Requirement Identifier
+- Program Specification Section
+- Supporting Evidence
+- Verification Method
+- Status
+
+A recommended example is shown below.
+
+| Requirement | Program Section | Evidence | Status |
+|-------------|-----------------|----------|--------|
+| REQ-STD009-7.x | Section Reference | Supporting Artifact | Complete |
+
+The Traceability Matrix should be maintained throughout the lifecycle of the Program Specification.
+
+---
+
+## 8.6 Conformance Checklist
+
+The Conformance Checklist provides a recommended method for verifying that a Program Specification satisfies the mandatory requirements of this standard.
+
+Example checklist:
+
+- □ Program Mission
+- □ Educational Objectives
+- □ Graduate Competencies
+- □ Program Learning Outcomes
+- □ Curriculum Architecture
+- □ Learning Progression
+- □ Assessment Strategy
+- □ Evidence Collection
+- □ Program Evaluation
+- □ Industry Alignment
+- □ Accreditation Alignment
+- □ Resource Requirements
+- □ Governance
+- □ Quality Assurance
+- □ Continuous Improvement
+- □ Revision History
+
+Successful completion of this checklist does not, by itself, establish conformance. Conformance is achieved only when all mandatory requirements of this standard have been satisfied.
+
+---
+
+# End of Standard
 ------------------------------------------------------------------------
 
-# 9. Relationships and Traceability
+# 9. Implementation Guidance (Informative)
 
-*Reserved for future development.*
+## 9.1 Purpose
 
+This section provides non-normative guidance for implementing the Program Specification Standard.
+
+The guidance contained within this section is intended to assist institutions in adopting, tailoring, and maintaining Program Specifications while remaining conformant with the mandatory requirements of this standard.
+
+Nothing in this section establishes additional conformance requirements.
+
+---
+
+## 9.2 Adoption Strategy
+
+Institutions should adopt this standard using a phased implementation approach.
+
+A recommended implementation sequence is:
+
+1. Establish the Program Mission.
+2. Define Educational Objectives.
+3. Define Graduate Competencies.
+4. Develop Program Learning Outcomes.
+5. Design the Curriculum Architecture.
+6. Establish the Learning Progression.
+7. Develop the Assessment Strategy.
+8. Define Evidence Collection procedures.
+9. Establish Program Evaluation processes.
+10. Define Industry Alignment activities.
+11. Establish Accreditation Alignment.
+12. Document Resource Requirements.
+13. Define Governance.
+14. Establish Quality Assurance.
+15. Implement Continuous Improvement.
+16. Establish Revision History procedures.
+
+---
+
+## 9.3 Tailoring Guidance
+
+Institutions may tailor this standard to accommodate:
+
+- institutional mission;
+- academic discipline;
+- program size;
+- delivery modality;
+- accreditation requirements;
+- regulatory requirements;
+- organizational governance.
+
+Tailoring shall not remove or weaken mandatory requirements unless explicitly authorized by a governing standard.
+
+---
+
+## 9.4 Roles and Responsibilities
+
+Successful implementation typically involves collaboration among multiple stakeholders.
+
+Typical responsibilities include:
+
+| Role | Typical Responsibilities |
+|------|---------------------------|
+| Program Coordinator | Overall Program Specification management |
+| Faculty | Curriculum development and assessment |
+| Department Chair | Oversight and approval |
+| Assessment Coordinator | Assessment and evidence management |
+| Advisory Committee | Industry feedback |
+| Academic Administration | Governance and resource allocation |
+
+Institutions may adapt these responsibilities to their organizational structure.
+
+---
+
+## 9.5 Implementation Roadmap
+
+A recommended implementation roadmap consists of five phases.
+
+### Phase 1 — Planning
+
+- establish governance;
+- identify stakeholders;
+- define scope;
+- establish implementation schedule.
+
+### Phase 2 — Development
+
+- prepare Program Specification;
+- define curriculum;
+- document assessments;
+- identify evidence.
+
+### Phase 3 — Validation
+
+- perform technical review;
+- verify traceability;
+- complete conformance review.
+
+### Phase 4 — Deployment
+
+- obtain approvals;
+- publish Program Specification;
+- communicate implementation.
+
+### Phase 5 — Continuous Operation
+
+- perform assessments;
+- collect evidence;
+- conduct evaluations;
+- implement improvements.
+
+---
+
+## 9.6 Common Implementation Risks
+
+Institutions should consider risks including:
+
+- unclear governance;
+- incomplete traceability;
+- inconsistent assessment practices;
+- inadequate evidence collection;
+- insufficient stakeholder participation;
+- outdated curriculum documentation;
+- lack of periodic review.
+
+Risk mitigation strategies should be incorporated into Governance and Continuous Improvement activities.
+
+---
+
+## 9.7 Recommended Deliverables
+
+Typical implementation artifacts include:
+
+- Program Specification;
+- Curriculum Map;
+- Assessment Matrix;
+- Evidence Repository;
+- Program Evaluation Report;
+- Continuous Improvement Plan;
+- Annual Program Review;
+- Revision History.
+
+These artifacts support implementation but may be adapted to institutional needs.
+
+---
+
+## 9.8 Maturity Model
+
+Institutions may evaluate implementation maturity using the following levels.
+
+| Level | Description |
+|--------|-------------|
+| Level 1 | Initial – Program documentation is incomplete or informal. |
+| Level 2 | Managed – Core Program Specification elements are documented. |
+| Level 3 | Defined – Processes are standardized and consistently applied. |
+| Level 4 | Quantitatively Managed – Performance is measured and evaluated using objective evidence. |
+| Level 5 | Optimizing – Continuous Improvement is systematic, proactive, and evidence-driven. |
+
+The maturity model is intended as a self-assessment tool and is not a conformance requirement.
+
+---
+
+## 9.9 Relationship to Other ATLAS Standards
+
+This standard should be used in conjunction with other applicable ATLAS standards.
+
+Future standards may provide additional guidance for:
+
+- curriculum engineering;
+- course specifications;
+- assessment engineering;
+- competency frameworks;
+- instructional design;
+- quality management;
+- academic governance.
+
+---
+
+## 9.10 Summary
+
+Implementation of this standard is expected to be iterative.
+
+Institutions are encouraged to begin with a complete Program Specification, establish governance and assessment processes, and use evidence-based Continuous Improvement to enhance program quality over time.
+
+This section is informative and does not establish additional mandatory requirements.
 ------------------------------------------------------------------------
 
-# 10. Quality Requirements
+# 10. Future Development (Informative)
 
-*Reserved for future development.*
+## 10.1 Purpose
 
+This section describes the anticipated evolution of the ATLAS standards framework and identifies areas for future standardization.
+
+The information contained within this section is informative and does not establish additional requirements for conformance.
+
+---
+
+## 10.2 Evolution of the ATLAS Framework
+
+ATLAS is intended to evolve as a comprehensive framework for the engineering, development, delivery, assessment, and continuous improvement of academic programs.
+
+Future standards should extend, but not conflict with, the principles established in this Program Specification Standard.
+
+---
+
+## 10.3 Planned Standards
+
+The following standards are identified as candidates for future development.
+
+| Proposed Standard | Purpose |
+|-------------------|---------|
+| ATLAS-STD-010 | Curriculum Engineering Standard |
+| ATLAS-STD-011 | Course Specification Standard |
+| ATLAS-STD-012 | Assessment Engineering Standard |
+| ATLAS-STD-013 | Competency Framework Standard |
+| ATLAS-STD-014 | Instructional Design Standard |
+| ATLAS-STD-015 | Academic Quality Management Standard |
+| ATLAS-STD-016 | Academic Governance Standard |
+
+The numbering shown is illustrative and may change as the ATLAS framework evolves.
+
+---
+
+## 10.4 Implementation Resources
+
+Future implementation resources may include:
+
+- implementation handbooks;
+- adoption guides;
+- best practice documents;
+- reference architectures;
+- sample Program Specifications;
+- assessment libraries;
+- curriculum engineering examples;
+- governance models.
+
+These resources are intended to assist institutions in applying ATLAS standards consistently.
+
+---
+
+## 10.5 Tool Support
+
+Future tool support may include:
+
+- Program Specification authoring tools;
+- curriculum mapping applications;
+- traceability management tools;
+- assessment planning tools;
+- evidence repositories;
+- conformance validation utilities;
+- reporting dashboards.
+
+Tool support is intended to simplify implementation and improve consistency across institutions.
+
+---
+
+## 10.6 Research and Continuous Development
+
+The ATLAS framework should evolve in response to:
+
+- educational research;
+- software engineering practices;
+- systems engineering methodologies;
+- accreditation developments;
+- industry needs;
+- emerging instructional technologies;
+- stakeholder feedback.
+
+Periodic review of the framework should ensure continued relevance and effectiveness.
+
+---
+
+## 10.7 Community Participation
+
+The continued development of ATLAS is expected to involve collaboration among:
+
+- educators;
+- academic administrators;
+- instructional designers;
+- accreditation specialists;
+- industry representatives;
+- employers;
+- students;
+- professional organizations.
+
+Community participation is encouraged to promote broad applicability and continuous refinement of the framework.
+
+---
+
+## 10.8 Version Evolution
+
+Future revisions of this standard should preserve backward compatibility where practical.
+
+Major revisions should:
+
+- document significant changes;
+- identify migration considerations;
+- preserve traceability between versions;
+- clearly distinguish normative and informative changes.
+
+Revision planning should support long-term stability of the ATLAS framework.
+
+---
+
+## 10.9 Long-Term Vision
+
+The long-term vision of ATLAS is to establish a cohesive family of engineering standards that support the complete lifecycle of academic program design, implementation, evaluation, governance, and continuous improvement.
+
+The framework is intended to provide institutions with a structured, evidence-based approach to developing and sustaining high-quality academic programs while remaining adaptable to diverse institutional missions and educational contexts.
+
+---
+
+## 10.10 Closing Statement
+
+This standard establishes the foundational engineering specification for the development and management of academic programs within the ATLAS framework.
+
+Future ATLAS standards are expected to build upon this foundation to create an integrated, interoperable, and continuously evolving body of academic engineering standards.
+
+The guidance contained in this section is informative and does not establish additional mandatory requirements.
 ------------------------------------------------------------------------
 
-# 11. Verification and Validation
+# Appendix A — Program Specification Template *(Normative)*
 
-*Reserved for future development.*
+Provides the required document structure for a conforming Program Specification.
 
-------------------------------------------------------------------------
+---
 
-# 12. Lifecycle Management
+# Appendix B — Example Program Specification *(Informative)*
 
-*Reserved for future development.*
+Provides a fully developed example illustrating implementation of this standard.
 
-------------------------------------------------------------------------
+---
 
-# 13. Conformance
+# Appendix C — Traceability Matrix *(Normative)*
 
-*Reserved for future development.*
+Provides the required traceability relationships among Program Specifications and subordinate curriculum engineering artifacts.
 
-------------------------------------------------------------------------
+---
 
-# Appendix A --- Program Specification Template (Normative)
+# Appendix D — Conformance Checklist *(Normative)*
 
-*Reserved for future development.*
+Provides a checklist for verifying that a Program Specification satisfies all mandatory requirements of this standard.
 
-------------------------------------------------------------------------
+---
 
-# Appendix B --- Example Program Specification (Informative)
+# Appendix E — Implementation Guidance *(Informative)*
 
-*Reserved for future development.*
+Provides recommended practices for implementing this standard.
 
-------------------------------------------------------------------------
+## E.1 Adoption Strategy
 
-# Appendix C --- Traceability Matrix (Normative)
+## E.2 Tailoring Guidance
 
-*Reserved for future development.*
+## E.3 Roles and Responsibilities
 
-------------------------------------------------------------------------
+## E.4 Implementation Roadmap
 
-# Appendix D --- Conformance Checklist (Normative)
+## E.5 Common Implementation Risks
 
-*Reserved for future development.*
+## E.6 Recommended Deliverables
 
-------------------------------------------------------------------------
+---
+# Appendix F — Program Maturity Model *(Informative)*
+
+Provides a maturity model for evaluating implementation of Program Specifications.
+
+## F.1 Level 1 — Initial
+
+Implementation is informal and inconsistently applied.
+
+## F.2 Level 2 — Managed
+
+Core Program Specification elements are documented and managed.
+
+## F.3 Level 3 — Defined
+
+Processes are standardized and consistently implemented.
+
+## F.4 Level 4 — Quantitatively Managed
+
+Program performance is measured using objective evidence and performance indicators.
+
+## F.5 Level 5 — Optimizing
+
+Continuous Improvement is systematic, proactive, and evidence-driven.
+
+---
+
+# Appendix G — Future Development *(Informative)*
+
+Describes the anticipated evolution of the ATLAS standards framework.
+
+## G.1 Planned Standards
+
+## G.2 Implementation Resources
+
+## G.3 Tool Support
+
+## G.4 Research and Continuous Development
+
+## G.5 Community Participation
+
+## G.6 Version Evolution
+
+## G.7 Long-Term Vision
+
+---
 
 # Bibliography
+Lists informative references that supported development of this standard but are not required for conformance.
 
-*Reserved for future development.*
+---
+
+# Index *(Optional)*
+
+Provides an alphabetical index of significant terms, concepts, and engineering artifacts used throughout this standard.

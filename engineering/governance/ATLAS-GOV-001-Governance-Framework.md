@@ -89,3 +89,576 @@ Educational goals shall drive curriculum design. Technology—including artifici
 **Engineering Better Learning.**
 
 *End of Executive Summary*
+
+# 2. Purpose
+
+## 2.1 Purpose
+
+The purpose of the **Atlas Governance Framework** is to establish a consistent, transparent, and scalable governance model for engineering, managing, and continuously improving collegiate curriculum within the **Atlas Curriculum Engineering System (CES)**.
+
+This standard defines the governance principles, organizational responsibilities, decision authority, and operational expectations that guide the development, approval, implementation, maintenance, and retirement of curriculum artifacts throughout their lifecycle.
+
+The Governance Framework provides the foundation for institutional accountability by ensuring that curriculum engineering activities are:
+
+- Academically rigorous
+- Pedagogically sound
+- Evidence-based
+- Industry-informed
+- Traceable
+- Continuously improved
+- Governed through clearly defined roles and responsibilities
+
+---
+
+## 2.2 Objectives
+
+The objectives of this standard are to:
+
+1. Establish a shared governance model that balances faculty leadership with institutional collaboration.
+2. Define governance responsibilities and decision authority for all participants involved in curriculum engineering.
+3. Ensure curriculum decisions are supported by documented evidence, educational best practices, and appropriate stakeholder consultation.
+4. Promote consistency and transparency throughout the curriculum engineering lifecycle.
+5. Provide governance processes that support continuous quality improvement.
+6. Enable institutions to modernize curriculum engineering while preserving academic integrity and institutional autonomy.
+7. Establish governance practices that support the responsible adoption of emerging technologies, including artificial intelligence, without diminishing faculty ownership of academic decisions.
+
+---
+
+## 2.3 Intended Outcomes
+
+Implementation of this standard should enable institutions to:
+
+- Improve curriculum quality and consistency.
+- Strengthen alignment between curriculum and workforce needs.
+- Increase transparency in curriculum decision making.
+- Improve traceability across curriculum artifacts.
+- Reduce duplication of effort.
+- Support accreditation and institutional review processes.
+- Facilitate continuous curriculum improvement.
+- Create a governance foundation that supports future automation, analytics, and institutional innovation.
+
+---
+
+## 2.4 Governance Intent
+
+Atlas governance is intended to provide structure without creating unnecessary bureaucracy.
+
+The framework establishes **what must be governed** while allowing institutions flexibility in **how governance is implemented** to reflect local policies, organizational structures, governance models, and academic traditions.
+
+Atlas therefore defines governance principles rather than prescribing a single institutional governance model.
+
+---
+
+## 2.5 Relationship to Atlas
+
+The Governance Framework serves as the authoritative governance standard for the **Atlas Curriculum Engineering System (CES)**.
+
+This document establishes the governance policies, principles, and decision-making structures that support the implementation of:
+
+- Atlas Architecture
+- Atlas Standards
+- Atlas Engineering Processes
+- Atlas Policies
+- Atlas Templates
+- Atlas Reference Implementations
+
+All subsequent governance standards derive their authority from this document.
+
+---
+
+## 2.6 Governance Design Goals
+
+The Atlas Governance Framework has been engineered to achieve the following design goals.
+
+| Design Goal | Description |
+|--------------|-------------|
+| **Transparent** | Governance decisions are documented, visible, and traceable throughout the curriculum engineering lifecycle. |
+| **Accountable** | Every governance activity has a clearly identified owner responsible for its execution and outcomes. |
+| **Adaptable** | Institutions may tailor governance implementation while maintaining conformance with Atlas principles. |
+| **Evidence-Based** | Governance decisions are supported by measurable evidence, educational research, assessment data, accreditation guidance, or documented stakeholder feedback. |
+| **Scalable** | The framework supports governance of individual lessons, courses, academic programs, departments, and institution-wide curriculum initiatives. |
+| **Sustainable** | Governance promotes long-term curriculum stewardship through structured review cycles, version control, and continuous improvement. |
+| **Collaborative** | Faculty, academic leadership, curriculum committees, subject matter experts, industry partners, and AI-assisted tools contribute within clearly defined governance roles. |
+| **Pedagogy-Driven** | Educational theory and student learning objectives guide all governance decisions before technology considerations. |
+| **Future-Ready** | The framework is designed to accommodate evolving educational practices, workforce needs, accreditation standards, and emerging technologies without requiring fundamental redesign. |
+
+---
+
+## 2.7 Success Criteria
+
+A successful implementation of the Atlas Governance Framework should demonstrate the following characteristics:
+
+- Governance roles and responsibilities are clearly defined and understood.
+- Curriculum decisions are documented, transparent, and traceable.
+- Faculty maintain ownership of academic decisions while collaborating through a shared governance model.
+- Major curriculum revisions include documented evidence and appropriate external validation.
+- Curriculum artifacts remain aligned with institutional goals, educational best practices, and workforce expectations.
+- Continuous improvement activities are conducted on a regular basis and supported by assessment data and stakeholder feedback.
+- Governance processes support institutional agility while preserving academic quality and integrity.
+- Responsible AI assistance enhances curriculum engineering without replacing human judgment or institutional authority.
+
+---
+
+**End of Section: Purpose**
+
+# 3. Scope
+
+## 3.1 General
+
+This standard defines the governance framework for the **Atlas Curriculum Engineering System (CES)** and establishes the organizational principles, governance responsibilities, decision authority, and operational expectations for engineering, maintaining, and continuously improving collegiate curriculum.
+
+The scope of this standard includes all curriculum engineering activities governed by Atlas throughout the curriculum lifecycle, from initial requirements analysis through retirement, archival, and continuous improvement.
+
+---
+
+## 3.2 In Scope
+
+The Atlas Governance Framework applies to the governance of the following curriculum engineering activities:
+
+### Academic Programs
+
+- Degree Programs
+- Certificates
+- Diplomas
+- Academic Pathways
+- Micro-Credentials
+- Workforce Development Programs
+
+### Curriculum Architecture
+
+- Competencies
+- Student Learning Outcomes
+- Course Learning Outcomes
+- Curriculum Maps
+- Program Maps
+- Learning Progressions
+
+### Curriculum Design
+
+- Courses
+- Weekly Modules
+- Lessons
+- Learning Activities
+- Instructional Resources
+- Learning Experiences
+
+### Assessment Engineering
+
+- Assessments
+- Assessment Plans
+- Rubrics
+- Performance Indicators
+- Authentic Assessments
+- Competency Validation
+
+### Governance Artifacts
+
+- Standards
+- Policies
+- Engineering Processes
+- Templates
+- Reference Architectures
+- Governance Documentation
+
+### Continuous Improvement
+
+- Curriculum Review
+- Assessment Analysis
+- Program Evaluation
+- Accreditation Activities
+- Employer Feedback
+- Student Success Analysis
+- Curriculum Revision
+
+---
+
+## 3.3 Out of Scope
+
+The Atlas Governance Framework does **not** govern the following institutional functions unless explicitly adopted by an institution.
+
+### Administrative Operations
+
+- Human Resources
+- Budget Management
+- Financial Planning
+- Procurement
+- Facilities Management
+- Information Technology Operations
+
+### Student Services
+
+- Admissions
+- Registration
+- Financial Aid
+- Advising
+- Counseling
+- Student Conduct
+
+### Institutional Governance
+
+Atlas does not replace institutional governance structures including:
+
+- Boards of Trustees
+- Faculty Senates
+- Executive Leadership
+- Institutional Policies
+- Legal Compliance Requirements
+
+### Instructional Autonomy
+
+Atlas governs curriculum engineering—not classroom teaching.
+
+Individual instructors retain academic freedom regarding:
+
+- Classroom delivery
+- Instructional style
+- Teaching methodology
+- Classroom activities
+- Student engagement strategies
+
+provided these remain consistent with approved curriculum outcomes and institutional policies.
+
+---
+
+## 3.4 Intended Audience
+
+This standard is intended for:
+
+- Faculty
+- Curriculum Engineers
+- Instructional Designers
+- Program Coordinators
+- Department Chairs
+- Curriculum Committees
+- Academic Administrators
+- Accreditation Teams
+- Assessment Specialists
+- Subject Matter Experts
+- Industry Advisory Boards
+- Educational Technology Professionals
+
+---
+
+## 3.5 Institutional Applicability
+
+Atlas is designed to support a wide variety of higher education institutions, including:
+
+- Community Colleges
+- Technical Colleges
+- Four-Year Colleges
+- Universities
+- Graduate Schools
+- Online Institutions
+- Corporate Universities
+- Military Education Programs
+- Continuing Education Providers
+
+Institutions may adopt Atlas in whole or in part while maintaining local governance structures.
+
+---
+
+## 3.6 Conformance Levels
+
+Atlas recognizes that institutions may adopt the framework incrementally.
+
+### Level 1 — Course Conformance
+
+Atlas governance is applied to one or more individual courses.
+
+Typical use cases include:
+
+- Pilot projects
+- Course redesign
+- Faculty-led innovation
+- Assessment improvement
+
+---
+
+### Level 2 — Program Conformance
+
+Atlas governance is applied across an academic program.
+
+Examples include:
+
+- Associate Degrees
+- Bachelor's Degrees
+- Certificate Programs
+- Workforce Programs
+
+Program Conformance includes curriculum mapping, program assessment, and coordinated governance across multiple courses.
+
+---
+
+### Level 3 — Department Conformance
+
+Atlas governance is adopted by an academic department.
+
+This includes:
+
+- Department-wide standards
+- Shared engineering processes
+- Common governance practices
+- Department assessment planning
+
+---
+
+### Level 4 — Institutional Conformance
+
+Atlas serves as the institution's official curriculum engineering framework.
+
+Governance extends across:
+
+- All academic programs
+- Curriculum committees
+- Assessment governance
+- Curriculum lifecycle management
+- Continuous improvement processes
+
+---
+
+## 3.7 Conformance Statement
+
+An institution claiming conformance with the Atlas Governance Framework shall:
+
+- Implement documented governance processes.
+- Define governance roles and responsibilities.
+- Maintain curriculum traceability.
+- Conduct faculty peer review.
+- Perform assessment quality review.
+- Maintain documented approval records.
+- Support continuous improvement through evidence-based decision making.
+
+Institutions may extend Atlas governance with institution-specific standards and policies provided such extensions do not conflict with the principles established by this standard.
+
+---
+
+## 3.8 Relationship to Other Atlas Standards
+
+This document establishes the governance scope for all Atlas standards.
+
+Subsequent governance standards inherit the scope defined herein unless explicitly stated otherwise.
+
+Where conflicts exist between this document and subordinate governance artifacts, the provisions of **ATLAS-GOV-001** shall take precedence.
+
+---
+
+## 3.9 Scope Review
+
+The scope of this standard shall be reviewed:
+
+- Annually
+- Following major Atlas releases
+- Following significant accreditation changes
+- Following substantial changes in educational practice or technology
+
+Changes to scope shall follow the Atlas Change Management process defined in **ATLAS-GOV-004**.
+
+---
+
+**End of Section: General**
+
+# 4. Normative References
+
+## 4.1 General
+
+The documents referenced in this section provide foundational concepts, principles, and practices that support the implementation of the Atlas Governance Framework.
+
+Where specific provisions of these references are adopted by Atlas, they become normative within the context of this standard. Where guidance is referenced for informational purposes only, it should be considered informative rather than mandatory.
+
+The latest published edition of each referenced work should be used unless otherwise specified by institutional policy.
+
+---
+
+## 4.2 Educational Foundations
+
+Atlas is grounded in established educational theory and instructional design principles.
+
+The following works provide foundational guidance for curriculum engineering.
+
+### Bloom's Taxonomy
+
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R.
+
+**Taxonomy of Educational Objectives: Handbook I – Cognitive Domain**
+
+Atlas recognizes Bloom's Taxonomy as a foundational framework for designing measurable learning outcomes, instructional activities, and assessments.
+
+---
+
+### Revised Bloom's Taxonomy
+
+Anderson, L. W., & Krathwohl, D. R.
+
+**A Taxonomy for Learning, Teaching, and Assessing**
+
+Atlas encourages use of the revised taxonomy when designing contemporary curriculum.
+
+---
+
+### Constructive Alignment
+
+Biggs, J., & Tang, C.
+
+**Teaching for Quality Learning at University**
+
+Constructive Alignment serves as one of Atlas's primary instructional design principles by ensuring alignment among learning outcomes, instructional activities, and assessments.
+
+---
+
+### Backward Design
+
+Wiggins, G., & McTighe, J.
+
+**Understanding by Design**
+
+Atlas adopts Backward Design as a preferred methodology for curriculum planning, emphasizing learning outcomes before instructional activities.
+
+---
+
+### Universal Design for Learning (UDL)
+
+CAST
+
+**Universal Design for Learning Guidelines**
+
+Atlas supports inclusive curriculum engineering practices through the principles of Universal Design for Learning.
+
+---
+
+### Competency-Based Education
+
+Atlas recognizes competency-based education models as foundational for workforce-aligned curriculum engineering.
+
+---
+
+## 4.3 Quality Management References
+
+Atlas incorporates engineering concepts commonly found within quality management systems.
+
+Relevant references include:
+
+- ISO 9001 – Quality Management Systems
+- Continuous Improvement methodologies
+- Plan-Do-Check-Act (PDCA)
+- Root Cause Analysis
+- Evidence-Based Decision Making
+
+These references inform Atlas governance but do not replace institutional quality management systems.
+
+---
+
+## 4.4 Systems Engineering References
+
+Atlas applies systems engineering principles to curriculum engineering.
+
+Relevant engineering concepts include:
+
+- Systems Thinking
+- Configuration Management
+- Traceability
+- Lifecycle Management
+- Requirements Engineering
+- Verification
+- Validation
+- Risk Management
+
+These concepts are adapted for curriculum engineering rather than software or hardware engineering.
+
+---
+
+## 4.5 Project and Process Management References
+
+Atlas governance is informed by established project and process management practices, including concepts found within:
+
+- PMBOK® Guide
+- Agile Principles
+- Lean Continuous Improvement
+- Business Process Management (BPM)
+- Enterprise Architecture
+
+Atlas adopts concepts where appropriate while maintaining a curriculum-centered focus.
+
+---
+
+## 4.6 Accreditation References
+
+Atlas is designed to complement institutional accreditation requirements.
+
+Examples include:
+
+- Regional Accrediting Bodies
+- Programmatic Accreditation Organizations
+- Institutional Assessment Standards
+- Outcomes Assessment Frameworks
+- Institutional Effectiveness Models
+
+Atlas does not replace accreditation requirements but provides governance processes that support institutional compliance.
+
+---
+
+## 4.7 Technology References
+
+Atlas recognizes that educational technology continues to evolve.
+
+Technology standards that may inform implementation include:
+
+- Learning Management Systems
+- Learning Tools Interoperability (LTI)
+- Accessibility Standards (WCAG)
+- Artificial Intelligence Governance
+- Learning Analytics
+
+Technology implementations should always support educational objectives rather than determine them.
+
+---
+
+## 4.8 Artificial Intelligence References
+
+Atlas recognizes Artificial Intelligence as an emerging capability within higher education.
+
+Institutions implementing AI within Atlas should consider:
+
+- Responsible AI practices
+- Human oversight
+- Transparency
+- Academic integrity
+- Privacy
+- Data governance
+
+Artificial Intelligence shall function as an assistive capability and shall not replace institutional governance or faculty authority.
+
+---
+
+## 4.9 Relationship to Atlas Standards
+
+This standard should be used in conjunction with:
+
+- ATLAS-FRM-001 – Project Charter
+- ATLAS-FRM-005 – Engineering Principles
+- ATLAS-ARC-001 – Reference Architecture
+- ATLAS-STD-001 – Repository Standards
+- ATLAS-STD-005 – Assessment Standards
+- ATLAS-PRC-001 – Curriculum Engineering Lifecycle
+
+Subsequent Atlas standards inherit these references unless otherwise specified.
+
+---
+
+## 4.10 Informative References
+
+The following resources provide additional guidance but are not required for conformance.
+
+Examples include:
+
+- Educational research literature
+- Instructional design publications
+- Government reports
+- Industry competency frameworks
+- Workforce development reports
+- Emerging educational technology research
+
+These resources may assist institutions in extending Atlas beyond the minimum requirements established by this standard.
+
+---
+
+**End of Section: Normative References**

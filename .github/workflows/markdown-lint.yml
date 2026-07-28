@@ -1,0 +1,3 @@
+name: Markdown Lint on: pull_request: push: jobs: lint: runs-on:
+ubuntu-latest steps: - uses: actions/checkout@v4 - name: Placeholder
+run: echo "Configure markdownlint in future."

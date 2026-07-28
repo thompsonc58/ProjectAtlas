@@ -1,0 +1,5 @@
+site_name: Project Atlas site_description: Curriculum Engineering System
+(CES) theme: name: material plugins: - search markdown_extensions: -
+admonition - tables nav: - Home: index.md - Handbook: handbook.md -
+Architecture: architecture/index.md - Standards: standards/index.md -
+Processes: processes/index.md - Diagrams: diagrams/index.md

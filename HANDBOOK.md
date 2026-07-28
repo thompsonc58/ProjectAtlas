@@ -89,23 +89,7 @@ shared/
 tools/
 releases/
 archive/
-```
-flowchart TD
 
-    A[Project Atlas]
-
-    A --> B[Foundation]
-    A --> C[Architecture]
-    A --> D[Standards]
-    A --> E[Guides]
-    A --> F[Processes]
-    A --> G[Governance]
-    A --> H[Templates]
-    A --> I[Curriculum]
-    A --> J[Tools]
-    A --> K[Analytics]
-
-    K --> L[Continuous Improvement]
 ------------------------------------------------------------------------
 
 # Engineering Domains

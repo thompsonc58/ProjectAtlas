@@ -662,3 +662,200 @@ These resources may assist institutions in extending Atlas beyond the minimum re
 ---
 
 **End of Section: Normative References**
+# 5. Terms and Definitions
+
+## 5.1 General
+
+For the purposes of this standard, the terms and definitions contained within **ATLAS-REF-000 – Atlas Glossary** shall apply.
+
+Where a conflict exists between institutional terminology and the definitions established by the Atlas Glossary, institutions should document local terminology while preserving the intent and meaning of Atlas concepts.
+
+Additional terms specific to governance are defined within this section.
+
+---
+
+## 5.2 Authoritative Terminology
+
+ATLAS-REF-000 serves as the authoritative source for terminology used throughout the Atlas Curriculum Engineering System (CES).
+
+All Atlas standards, processes, policies, templates, and reference implementations shall use the definitions contained within the Atlas Glossary unless explicitly stated otherwise.
+
+Changes to glossary definitions shall be managed in accordance with the Atlas Change Management Process.
+
+---
+
+## 5.3 Governance
+
+**Governance**
+
+The framework of policies, processes, roles, responsibilities, and decision-making authority used to establish, approve, manage, review, and continuously improve curriculum engineering activities.
+
+---
+
+## 5.4 Governance Authority
+
+**Governance Authority**
+
+The individual, committee, or institutional body formally authorized to approve, reject, or require modification of curriculum engineering artifacts.
+
+Governance authority remains a human responsibility and shall not be delegated to automated systems.
+
+---
+
+## 5.5 Shared Governance
+
+**Shared Governance**
+
+A collaborative governance model in which faculty, academic leadership, curriculum committees, assessment professionals, and external stakeholders participate in curriculum engineering decisions according to clearly defined roles and responsibilities.
+
+Shared governance preserves faculty ownership while promoting institutional accountability and external relevance.
+
+---
+
+## 5.6 Faculty Curriculum Engineer
+
+**Faculty Curriculum Engineer**
+
+A faculty member responsible for designing, developing, maintaining, and continuously improving curriculum using the principles, standards, and processes defined by Atlas.
+
+Faculty Curriculum Engineers retain final academic responsibility for curriculum decisions.
+
+---
+
+## 5.7 Curriculum Engineering
+
+**Curriculum Engineering**
+
+The systematic application of educational theory, engineering principles, governance, evidence-based decision making, and continuous improvement to the design, implementation, assessment, maintenance, and evolution of academic curriculum.
+
+Curriculum Engineering integrates instructional design with structured engineering practices to produce high-quality, adaptable, and measurable learning experiences.
+
+---
+
+## 5.8 Curriculum Artifact
+
+**Curriculum Artifact**
+
+Any documented work product produced during the curriculum engineering lifecycle.
+
+Examples include:
+
+- Program specifications
+- Course specifications
+- Student learning outcomes
+- Assessment plans
+- Rubrics
+- Lesson plans
+- Weekly modules
+- Policies
+- Standards
+- Templates
+- Reference implementations
+
+---
+
+## 5.9 Configuration Item
+
+**Configuration Item (CI)**
+
+A curriculum artifact placed under configuration management because it contributes to the controlled baseline of a curriculum, course, program, or Atlas standard.
+
+Configuration Items shall be version controlled and traceable throughout their lifecycle.
+
+---
+
+## 5.10 Baseline
+
+**Baseline**
+
+A formally approved version of one or more curriculum artifacts that serves as the official reference point for implementation, review, assessment, and future revision.
+
+Changes to a baseline require formal change control.
+
+---
+
+## 5.11 Traceability
+
+**Traceability**
+
+The documented ability to follow relationships among competencies, requirements, learning outcomes, instructional activities, assessments, curriculum artifacts, and evidence throughout the curriculum engineering lifecycle.
+
+Atlas promotes end-to-end traceability from identified workforce or educational needs through assessment evidence.
+
+---
+
+## 5.12 Verification
+
+**Verification**
+
+The process of determining whether a curriculum artifact satisfies its documented specifications, requirements, or design intent.
+
+Verification answers the question:
+
+> "Was the curriculum engineered correctly?"
+
+---
+
+## 5.13 Validation
+
+**Validation**
+
+The process of determining whether curriculum achieves its intended educational purpose and addresses stakeholder needs.
+
+Validation answers the question:
+
+> "Was the correct curriculum engineered?"
+
+---
+
+## 5.14 Continuous Improvement
+
+**Continuous Improvement**
+
+The ongoing process of evaluating curriculum performance and implementing evidence-based enhancements using assessment data, stakeholder feedback, accreditation findings, technological advancements, and industry input.
+
+Continuous improvement is an essential component of the Atlas Curriculum Engineering Lifecycle.
+
+---
+
+## 5.15 Artificial Intelligence (AI)
+
+**Artificial Intelligence (AI)**
+
+Computational systems capable of assisting with curriculum engineering activities such as drafting, reviewing, analysis, and recommendation generation.
+
+Within Atlas, Artificial Intelligence functions solely as an assistive capability.
+
+Artificial Intelligence shall not replace faculty authority, institutional governance, or academic decision-making.
+
+---
+
+## 5.16 Stakeholder
+
+**Stakeholder**
+
+Any individual or organization with an interest in, responsibility for, or influence on curriculum engineering activities.
+
+Stakeholders may include faculty, students, administrators, employers, industry advisory boards, accreditation organizations, instructional designers, assessment specialists, and governmental agencies.
+
+---
+
+## 5.17 Conformance
+
+**Conformance**
+
+Demonstrated implementation of applicable Atlas requirements through documented evidence, governance records, and institutional practice.
+
+Conformance does not require identical implementation across institutions but requires adherence to the principles and mandatory provisions defined by Atlas.
+
+---
+
+## 5.18 Additional Definitions
+
+Additional terminology used throughout the Atlas Curriculum Engineering System shall be maintained within **ATLAS-REF-000 – Atlas Glossary**.
+
+The glossary is a living reference maintained independently of individual standards to ensure consistent terminology across the Atlas Body of Knowledge.
+
+---
+
+**End of Section: Terms and Definitions**

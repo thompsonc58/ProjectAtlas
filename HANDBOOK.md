@@ -89,7 +89,6 @@ shared/
 tools/
 releases/
 archive/
-```
 
 ------------------------------------------------------------------------
 
@@ -132,16 +131,27 @@ Communicates future development plans and strategic direction.
   Prefix       Category
   ------------ -------------------
   ATLAS-FRM    Foundation
+  
   ATLAS-ARC    Architecture
+  
   ATLAS-STD    Standards
+  
   ATLAS-GDE    Guides
+  
   ATLAS-PRC    Processes
+  
   ATLAS-GOV    Governance
+  
   ATLAS-TMP    Templates
+  
   ATLAS-REF    References
+  
   ATLAS-CUR    Curriculum
+  
   ATLAS-ASM    Assessments
+  
   ATLAS-RUB    Rubrics
+  
   ATLAS-TOOL   Engineering Tools
 
 ------------------------------------------------------------------------
